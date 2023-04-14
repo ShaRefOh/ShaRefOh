@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShaRefOh
 - 👀 I’m interested in experimanting with github to get the feel
-- 🌱 I’m currently learning discord.js
+- 🌱 I’m currently learning discord.py and arangoDB
 - 💞️ I’m looking to collaborate on some bots
 - Peace!
 
