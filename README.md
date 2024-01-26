@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShaRefOh
-- 👀 I’m interested in experimanting with github to get the feel
-- 🌱 I’m currently learning discord.py and arangoDB
-- 💞️ I’m looking to collaborate on some bots
+- 👀 I’m interested in semantic web tech, knowledge graphs, and social networks, 
+- 🌱 I’m currently learning the use of ML evaluation tools like wandb,
+- 💞️ I’m looking to collaborate on anything connected to human-centered tech that can challenge me intellectually.
 - Peace!
 
 <!---
