@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShaRefOh
-- 👀 I’m interested in semantic web tech, knowledge graphs, and social networks, 
-- 🌱 I’m currently learning the use of ML evaluation tools like wandb,
+- 👀 I’m interested in semantic web tech,NLP + knowledge graphs, and social networks, 
+- 🌱 I’m currently working on a project calles Sense Networks,
 - 💞️ I’m looking to collaborate on anything connected to human-centered tech that can challenge me intellectually.
 - Peace!
 
