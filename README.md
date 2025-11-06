@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShaRefOh
-- 👀 I’m interested in semantic web tech,NLP + knowledge graphs, and social networks, 
-- 🌱 I’m currently working on a project calles Sense Networks,
-- 💞️ I’m looking to collaborate on anything connected to human-centered tech that can challenge me intellectually.
+- 👀 I’m interested in collective sensemaking in the digital environment,Mechanism design and AI, 
+- 🌱 I’m currently working on a project called Cosmik,
+- 💞️ I’m looking to collaborate on anything connected to human-centered tech that can challenge and intrigue me intellectually.
 - Peace!
 
 <!---
